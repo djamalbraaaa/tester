@@ -1,0 +1,3 @@
+while ture do
+game.ReplicatedStorage.Mainevent:Fireserver("Stomp")
+end
